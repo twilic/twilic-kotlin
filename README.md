@@ -112,4 +112,4 @@ Tracks [twilic/twilic](https://github.com/twilic/twilic), [twilic-java](https://
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
